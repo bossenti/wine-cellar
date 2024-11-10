@@ -1,0 +1,7 @@
+[project]
+name = "wine-cellar"
+version = "0.1.0"
+description = "Simple web application to manage your private wine cellar"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
